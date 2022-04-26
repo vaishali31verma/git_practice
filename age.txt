@@ -1,1 +1,1 @@
-age is 20
+age is 20 an 40
